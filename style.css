@@ -94,7 +94,7 @@ textarea {
     width: 100%;
     min-height: 80vh;
     box-sizing: border-box;
-    overflow: hidden
+    overflow: hidden;
   }
   #navbar {
     min-height: 10vh;
