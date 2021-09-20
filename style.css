@@ -92,7 +92,7 @@ textarea {
 
   #container {
     width: 100%;
-    min-height: 100vh;
+    min-height: 80vh;
     box-sizing: border-box;
     overflow: hidden
   }
@@ -150,7 +150,7 @@ textarea {
   }
 
   #footer {
-   height: 25vh;
+   height: 18vh;
    position: absolute;
    display: flex;
    left: 0;
