@@ -81,7 +81,6 @@ textarea {
   background-color: #FBBF24;
   margin-top: 63px; 
   text-align: center;
-  padding-top: 16px;
   font-size: 20px;
   display: block;
   font-weight: bold;
@@ -144,15 +143,25 @@ textarea {
   }
 
   #footer {
-    height: 14vh;
-    background-color: #FBBF24;
-    margin-top: 80px; 
-    text-align: center;
-    padding-top: 25px;
-    font-size: 12px;
-    display: block;
-    font-weight: bold;
+   height: 18vh;
+   position: absolute;
+   display: flex;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #FBBF24;
+   color: black;
+   font-size: 12px;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+   font-family: 'Cormorant Infant', serif;
+   
     
 
   }
+  
+
+  
 }
