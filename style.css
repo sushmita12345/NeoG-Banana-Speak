@@ -14,12 +14,14 @@ body {
 }
 
 #navbar {
+  display: flex;
+  
   min-height: 10vh;
   width: 100%;
   background-color: #FBBF24;
   margin-top: 0px;
   text-align: center;
-  padding-top: 20px;
+  
   font-size: 25px;
   justify-content: center;
   align-items: center; 
