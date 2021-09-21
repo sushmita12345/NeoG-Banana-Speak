@@ -92,7 +92,7 @@ textarea {
   width: 100%;
   left: 0;
   bottom: 0;
-  position: absolute;
+  position: fixed;
   display: flex;
   background-color: #FBBF24;
   color: black;
@@ -102,6 +102,8 @@ textarea {
   justify-content: center;
   align-items: center; 
 }
+
+
 
 
 
@@ -177,23 +179,22 @@ textarea {
 
   #footer {
    height: 18vh;
-   position: absolute;
+   position: fixed;
    display: flex;
    left: 0;
    bottom: 0;
    width: 100%;
    background-color: #FBBF24;
    color: black;
-   font-size: 12px;
+   font-size: 13px;
    text-align: center;
    justify-content: center;
    align-items: center;
    font-weight: bold;
    font-family: 'Cormorant Infant', serif;
    
-    
-
   }
+
   
 
   
