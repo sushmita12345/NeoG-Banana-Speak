@@ -157,7 +157,7 @@ textarea {
 
   #btn-translate {
     border: none;
-    padding: 1vh 2vw;
+    padding: 0.5vh 1vw;
     text-align: center;
     display: flex;
     /*display: inline-block;*/
@@ -174,7 +174,7 @@ textarea {
     font-size: 15px; 
     /* margin-left: 85px; */
     font-weight: bold;
-    padding-top: 2vh;
+    padding-top: 1vh;
     
     
 
@@ -183,8 +183,8 @@ textarea {
   #output {
     width: 50%;
     border: 1px solid black;
-    height: 14vh;
-    margin: 5vh;
+    height: 10vh;
+    margin: 4vh;
     /*padding: 1vw;*/
     display: flex;
     margin-left: auto;
