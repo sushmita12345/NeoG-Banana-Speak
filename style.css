@@ -86,7 +86,7 @@ textarea {
   display: flex;
   width: 50vw;
   border: 1px solid black;
-  height: 18vh;
+  height: 14vh;
   margin: 5vh;
   
   margin-left: auto;
@@ -183,7 +183,7 @@ textarea {
   #output {
     width: 50%;
     border: 1px solid black;
-    height: 18vh;
+    height: 14vh;
     margin: 5vh;
     /*padding: 1vw;*/
     display: flex;
