@@ -202,12 +202,12 @@ textarea {
 
   #container {
     width: 100%;
-    min-height: 100vh;
+    height: 150vh;
     box-sizing: border-box;
     overflow: hidden;
   }
   #navbar {
-    min-height: 10vh;
+    min-height: 7vh;
     width: 100%;
     background-color: #FBBF24;
     margin-top: 0px;
@@ -224,7 +224,7 @@ textarea {
     width: 50%;
     display: block;
     height: 5vh;
-    margin: 20px;
+    margin: 5px;
     padding: 15px;
     margin-left: auto;
     margin-right: auto;
@@ -241,19 +241,19 @@ textarea {
 
   #btn-translate {
     border: none;
-    padding: 5px 10px;
+    padding: 2.5px 5px;
     text-align: center;
     display: inline-block;
     /* margin-left: 85px; */
     font-weight: bold;
     font-family: 'Cormorant Infant', serif;
-    font-size: 15px;
+    font-size: 12px;
     background-color: #FBBF24;
   
   }
 
   #wrapper {
-    font-size: 15px; 
+    font-size: 12px; 
     /* margin-left: 85px; */
     font-weight: bold;
     padding-top: 10px;
@@ -265,14 +265,14 @@ textarea {
     width: 50%;
     border: 1px solid black;
     height: 10vh;
-    margin: 1vw;
-    padding: 1vw;
+    margin: 10px;
+    padding: 10px;
     margin-left: auto;
     margin-right: auto;
   }
 
   #footer {
-   height: 18vh;
+   height: 15vh;
    position: absolute;
    display: flex;
    left: 0;
@@ -280,7 +280,7 @@ textarea {
    width: 100%;
    background-color: #FBBF24;
    color: black;
-   font-size: 13px;
+   font-size: 12px;
    text-align: center;
    justify-content: center;
    align-items: center;
