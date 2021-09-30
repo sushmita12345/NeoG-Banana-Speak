@@ -14,3 +14,5 @@ A web app build with HTML, CSS and Javascript, in which you can translate englis
 # <h2>Clone the Repository</h2>
 To clone the repository open the terminal and run below command:</br>
 <pre>git clone https://github.com/sushmita12345/NeoG-Banana-Speak</pre>
+
+## Live at: https://minionstrans.netlify.app/
